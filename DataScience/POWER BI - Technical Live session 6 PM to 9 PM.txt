@@ -1,0 +1,931 @@
+POWER BI - Technical Live session 6 PM to 9 PM 
+
+Business Intelligence Tool 
+
+Its a Microsoft 
+
+Create a dashboard 
+
+POWER BI -
+
+Business  - Work, Profit, Loss, Occupation 
+Intelligence - 
+
+Power BI - It is a leading in the market. 
+
+Componets of Power BI: 
+
+5 Components 
+
+1. Power BI Desktop  - It's a free Tool - You can install it in your local machine 
+
+This application is available only for Windows OS
+
+There is no app for MAC OS 
+
+You will be manipulating ( Data Preprocessing / Data Transformation) the data and creating the Visuals 
+
+We will be working on the Power BI Desktop
+
+Once you create reports - you need to share them to your client 
+
+2. Power BI Service - Where you will be sharing and collbarting the reports to the end user 
+
+3. Power BI Mobile - In Android and IOS devices - Only view the reports 
+
+4. Power BI embedded - Pro and Premium versions - by the large organizations
+
+5. Power BI Report Server - Pro versions
+
+Power BI uses M Language 
+
+Architecture of Power BI 
+
+Blue-print 
+
+Get Data >> Power BI Desktop (Data Preprocessing / Data Transformation) the data and creating the Visuals) >>
+Power BI Service >> Power BI Mobile >> Power BI Report Server / Embedded 
+
+
+Think that you are Data Analyst 
+Your Mother - Client 
+
+
+Your Mother asked you to go to the Super Store and buy Grocery!!!!
+
+Step1 : List of Items 
+Step 2: Money
+Step 3: Crosscheck the items with your mother
+Step 4: In your English conversion 
+
+You will be getting the data from Different Sources 
+
+
+Step 5: Store
+
+Power BI Desktop 
+
+Step 6: Explore and search your items and place them in a basket 
+Step 7: Dhamaka Offer - 5 kg Atta with 2kg Sugar Free 
+Step 8 : Cross-checking - Additional Items - Mother 
+
+Data Transformation - Power Query Editor
+
+Power 
+Query - Tables in Power BI 
+Editor - Where you will be performing Data preprocessing steps 
+
+
+Step 9: Payment or Billing 
+Step 10 : Cross-check the Payment and products 
+Step 11: Back to home with Grocery
+
+Power BI Service 
+
+
+Step 12: Crosscheck the items with your mother and she arrange them in a appropriate location 
+Step 13: She will be comparing the bill with the previous months
+Step 14: If you give a suggestion will your Mother use 100%
+
+
+We have seen "How to download the Power BI Desktop" ?
+
+
+Power BI Desktop is the Advanced version of Excel 
+
+
+If you are using Android phone for 5 years - If I ask you change the ringtone settings?
+
+All of sudden I gifted Iphone 15 Pro - If I ask you change the ringtone settings?
+
+You seek help from your friends/ YouTube Videos, Surfing 
+
+Open Power BI Desktop >> About >> Version 
+
+Ribbon - 
+
+6 Ribbon - 
+
+Hover  - 
+
+In SQL - ER Diagrams 
+
+Establishing a relation between the two or more tables 
+
+1 GB of data you are accessing through your Mobile data - days!!!
+
+
+Report View - Seeing the Visuals or Charts or Reports 
+
+Table View - Seeing the structure of the Table 
+
+Model View - Seeing the Relation between the tables. 
+
+Panes 
+
+1. Filter Pane
+
+2. Visualization Pane - 40 + visuals 
+
+3. Data Pane 
+
+
+Canvas - where you will be adding the visuals 
+
+1. CSV
+2. Excel 
+3. PDF
+4. HTML
+5. TXT
+6. Json 
+7. Folder 
+8. Database
+9. Server 
+
+
+Mahesh Database - It is an Authorised one - 
+
+Yes 
+
+Navigator - Shows the direction or Path or Indicator 
+
+Load - When No Transformation required 
+
+Tranform Data - When Transformation required 
+
+Cancel - I don't want to any operation 
+
+In Excel or Word - CTRL + Z - UNDO 
+
+
+Decimal - 876.3245346457567356
+
+Fixed Decimal - 876.32
+
+sir can we have one feature has multiples data types
+
+Yes or NO 
+
+
+Data - Information 
+
+Validation - To check whether It is right or not 
+
+Data Driven Decisions 
+
+
+Distinct and Unique 
+
+
+Mahesh
+Babu
+Mahesh 
+Babu 
+Ramesh
+Babu
+Suresh 
+
+
+Distinct 
+
+Mahesh 
+Babu
+Ramesh 
+Suresh 
+
+Unique 
+
+Ramesh 
+Suresh 
+
+
+While Dealing with NULL, ERRORS and Duplicates 
+
+Hirerachy? 
+
+Date - 
+Year
+Quarter
+Month 
+Day 
+
+Country: 
+
+Country - India 
+Region - South 
+State - Telangana
+City - Hyderabad 
+Location
+Pincode
+
+When you apply transformation on One Column is it going to apply only on that column or entire dataset in row data? 
+
+
+entire dataset in row-wise data
+
+
+Mahesh
+
+Maheshw2302u93
+
+
+O - Observed 
+F - Forecast 
+
+Transform - Within the existing column it is going apply the Transformation Technique 
+
+Add Column - It will create a new column with the Transformation Technique 
+
+String Functions: 
+
+Len
+Upper
+Lower 
+Trim 
+Clean 
+
+
+Index
+
+
+Extract 
+
+Pivot and Un-pivot 
+
+For Data Analysis 
+
+Pivot - it will convert - Rows into Columns 
+Unpivot - it will convert - Columns into Rows 
+
+Merge Queries 
+
+Join or Combine 
+
+Mutiple Sheets - I want them in a single Table 
+
+Table 1 + Table 2 with Common Column 
+
+
+Columns are Increasing or Rows are Increasing?
+
+Merge Queries = Columns are Increasing
+
+
+Table 1 - 10 Col, 100 Rows
+Table 2 - 100 Col, 12 Rows 
+
+Matching Column
+
+
+Append And Visualizations 
+
+
+Merge - Table 1 with 10R X 15C
+Table 2: 15 R X 9 C
+Table 3 45R X 46C
+
+I have common Column from all the 3 tables 
+
+Append and Visualizations 
+
+
+Append: 
+
+5 floor building: 
+
+Basement - 5 Pillars 
+
+Floor 1 - 5 Pillars
+Floor 2 - 5 Pillars
+Floor 3 - 5 Pillars
+Floor 4 - 5 Pillars
+Floor 5 - 5 Pillars
+
+
+Table 1  10R X 15C
+Table 2 15 R X 9 C
+Table 3 45R X 46C
+
+Table 1: Country	State	Region	Category	Sub-Category	Product Name	Sales	Profit
+
+Table 2: Country	State	Region	Category	Sub-Category	Product Name	Sales	Profit
+
+Table 3: Country	State	Region	Category	Sub-Category	Product Name	Sales	Profit
+
+
+4 tables 
+
+
+
+Power BI Key Points:
+-------------------------
+1. Understand the Requirement
+2. Understand the Data
+3. Understand your Audience ( End-Users - who interactive with your reports)
+4. Understand which chart to create / use and when?
+
+
+
+Power BI Charts Details:
+------------------------------
+Text Tables, Hightlight Tables - Eye for detail
+
+Comparitive Analysis - Bar Charts, Side by Side Bars and Column Charts 
+
+Composition Analysis - Stacked Bars, Pie Charts, Donut Chart, Tree Map (Proportion to whole)
+
+Trend Analysis - Time Series Data - Line Charts and Area Charts
+
+Correlation Analysis - Scatter Plots and Heat maps 
+
+If I'm having 100 Rows and 100 Columns 
+
+Slicer and Filters 
+
+Slicer - When you want to see the particular information in detail 
+
+Filter - When we want to see the limited amount of data 
+
+Class A - 10 Students Subject: Maths 
+
+1 - 89 - Mahesh - 10 Question's - 
+2 - 56
+3 - 78
+4 - 97
+5 - 45
+6 - 58
+7 - 35
+8 - 65
+9 - 43
+10- 61
+
+Filter -- How many of student score > 65 = 3
+
+I want to see in depth information / Particuclar information - Slicer 
+
+
+Data Modeling: 
+
+Data - Collection of Tables / Information 
+
+Modeling  - Design 
+
+When you are dealing with Mutiple Tables - Data Modeling 
+
+Establish a relationship between the tables
+
+Fact Table and Dimension Table (DIM) 
+
+
+Fact Table - Will consists of EVents or Observations 
+
+Dim Table - Will consists of Entities - In-depth information 
+
+
+There 4 members in a family 
+
+Ajay! 
+
+Father - Fact Table 
+
+Mother - Dim Table
+
+Brother - Dim Table - Father (Fact)
+		Wife (DIm)
+		Son(Dim) - Father (Fact)
+			Wife(Dim)
+			Daughter(Dim) 
+Sister - Dim Table
+
+Star Schema - Father and Child Relatioship 
+
+
+Snowflake Schema - Father and Child Relatioship - Sub-child 
+
+
+You owned a Cloth Showroom 
+
+Shirts - A, B, C, D
+Jeans - A, B, C, D
+Trousers - A, B, C, D
+
+I want the Shirt - Brand A with Code: 452
+
+
+Billing Day basis - 1 month 
+
+Shirts - A - 
+There will be a register for B
+Plain Shirts, Pattern, Half-sleeves ,full-sleeves 
+
+There will be a register for B
+Plain Shirts, Pattern, Half-sleeves ,full-sleeves 
+
+There will be a register for C
+Plain Shirts, Pattern, Half-sleeves ,full-sleeves 
+
+There will be a register for B
+Plain Shirts, Pattern, Half-sleeves ,full-sleeves 
+
+Cardinality - Cross filter Direction 
+
+Many to 1 - Students - Mahesh - Single / Both 
+
+1 to Many - Mahesh - Students 
+
+1 to 1 - Student to Student 
+
+Many to Many - Students to Mahesh to Students 
+
+
+Appraisails
+
+1 to 1 - Both / Single - Dim to Dim 
+
+1 to Many - Single / Both 
+
+Many to 1 - 
+
+Many to Many -Fact Table with another Fact Table 
+
+
+Create a Market Table 
+
+with columns - Market Region Name of the Manager ID 
+
+East 
+West
+Central 
+South 
+
+Devired Columns by using DAX 
+
+Drill Through - 
+
+1. Paint 
+2. Cement
+3. Brick
+
+
+Drill Up - 
+
+1. Brick
+2. Cement
+3. Paint 
+
+
+Hirerachy for Country
+
+Drill Through 
+
+1. Country
+2. Region
+3. State
+4. City 
+
+
+Data Analysis Expression 
+
+Data - Collection of Tables 
+
+Analysis - Analysing the data 
+
+Expression - Formula 
+
+Equation and Expression? 
+
+LHS = RHS is Equation 
+
+Varibale = Functions 
+
+
+Calculated Columns 
+
+Calculated Measures 
+
+whenever I have heard of power BI from some experienced person, they usually talk about DAX
+is this thing we use most of the times in power BI
+
+Calculated Columns 
+
+Calculated Measures 
+
+Implict and Explict Measures 
+
+Implict Measures - Default 
+
+Explict Measures - Manual 
+
+Calculated Columns 
+
+Implict and Explict 
+
+Static and Dynamic 
+
+Implict - Static (Fixed) 
+Explict - Dynamic (We can change it) 
+
+Marks
+
+> 75 Pass - Fail 
+
+Calcualted Column 
+
+Maths - 80 - Pass
+Science - 90 - Pass
+Social - 50 - Fail
+
+Total - 220 Calculated Measure 
+
+
+Total 100 
+
+Calculated Measure will always be viewed using a CARD Visual 
+
+at the same time we will export all table are else one by one
+
+
+
+DAX - Data Analysis Expression 
+
+Deriving new columns or measures with the existing data 
+
+types - 
+Calculated column - 
+Calculated Measure -  
+
+
+250 + expressions 
+
+
+14 different Types of DAX functions
+
+Aggregation Funtions: 
+
+Avg, Min, Max, Sum, Count 
+
+Calculated Measure 
+
+A1: 1
+A2: 2
+A3: 3
+A4: 4
+A5: 5
+
+Sum
+
+SUM("Table_name"(Column_name))
+
+
+1. Table Name
+2. Coulmn Name
+3. SUM - Function 
+
+
+
+Average("Table_name"(Column_name))
+
+
+Values and Value 
+
+Is a Card View 
+
+
+IMPLICIT AND EXPLICIT 
+
+
+EXPLICIT - Manually 
+Implicit - Default - SUM 
+
+
+Manger to show all the Aggreation functions in a report
+
+SUM
+AVG
+MIN
+MAX 
+
+
+for Implicit  Measure - SUM, MIN, MAX, AVG, COUNT,
+
+FOR EXPLICT MEASURE - MIN or MAX or AVG 
+
+Calculated Measure can be viewed in REPORT VIEW using a CARD VISUAL 
+
+explicit is STatic  and implicit is Dynamic 
+
+
+CCls - Can be created in Table View 
+
+inorder to extract YEAR 
+
+A = YEAR(Table_Name(Column_Name))
+
+OrdersYear = Year(Orders[Ship Date]))
+
+Format 
+
+
+Orders_MonthName = FORMAT(Orders[Order Date], "mmmm")
+
+MMMM - give me complete MONTH Name 
+
+Quater - Q1 Q2 Q3 Q4 
+
+Calendar and AutoCalendar 
+
+Dates
+
+Calendar - Start Date and End Date 
+
+
+In my dataset there is no Date Column i have only Index column
+Create a line chart on the data? 
+
+Start date is 1st  of Jan 2022 
+End date is 31st March 2023 
+
+Calendar(STart_Date , ENd_Date)
+
+new table
+new column 
+establish a relationship between date table and orders tables with a macthing column 
+create a line chart 
+
+
+x = Huge Amount of data - 1945 to till date 2024 - Big data 
+
+data from 2023 to till date (Current Date) 
+
+y = New table 
+
+calendar = start and end date 
+Jan 1st of 2023  - Start date
+July 27th of 2024 - End date
+
+relationship between x & y 
+
+Autocalendar 
+
+It will fetch, is there any data in your datamodel 
+
+It will consider it as a start date and end date will be your current end of the year
+
+
+for ex: date is having a column called as Ship date = Feb 14th 2022
+
+STart date as Feb 14th 2022 - 31st dec 2024 
+
+15th of Dec 2024 
+
+
+current running business - 1st of Jan 2023 to 27th of July 2024 
+
+Autocalendar 
+
+1st of Jan 2023 to 31st of Dec 2024 
+
+
+28th of July 2024 to 31st of Dec 2024
+
+
+100 Columns - 
+Feature engineering - 15 columns 
+Devrived 10 more columns - ADD COLUMN 
+
+Total for analysis = 25 columns 
+
+There performance issue 
+Queriers will lag
+
+100 Columns - 
+Feature engineering - 15 columns 
+Devrived 10 more columns - DAX 
+
+
+Text Functions: 
+Concatenate, left, right, mid, len, lower, upper, trim, etc
+
+a = Mahesh Babu P
+
+Left= 
+
+Left(a) - Error or result
+
+Left(a, 7) = Mahesh 
+
+LEFT(Table_name(Column_Name), 7) 
+
+Right = 7 
+Right(Table_name(Column_Name), 7) 
+
+MID function 
+
+MID(Table_name(Column_Name), start position, no.of characters) 
+
+Slicing 
+List
+
+
+Mahesh 
+Babu
+P 
+Data 
+Analyst 
+
+concatenation - & 
+
+"Mahesh" & "Babu" & "P" & "Data" & "Analyst
+
+TRIM
+
+------Mahesh Babu-----------
+
+Mahesh Babu
+
+MaHEsH BaBU
+
+CLEAN(
+Mahesh Babu 
+
+   Mahesh Babu       
+Mahesh Babu 
+
+CAMEL Case 
+Pascal Case 
+
+mahesh Babu 
+
+
+Logical Operators 
+AND / OR / NOT 
+
+Truth Table 
+
+AND  - 4 rows and 3 columns 
+
+A	B	A X B 
+0	0	0	
+1	0	0
+0	1	0
+1	1	1
+
+
+OR 
+
+A 	B	A + B
+0 	0 	0
+0 	1	1
+1 	0	1
+1	1	1 
+
+IF(AND(Orders[Sales] > 1000, Orders[Quantity] > 5), 
+"Both conditions met", "At least one condition not met")
+
+Sales = 600 and Quantity is 4
+
+0 0 = 0 
+ 
+sales = 1500 and QUantity is 10 
+
+Sales = 100 and Quanity  10 
+
+
+IF(OR(Orders[Sales] > 1000, Orders[Quantity] > 5, Orders[Segment] > 2), 
+"Both conditions met", "At least one condition not met")
+
+8421
+
+A 	B 	C 	AXBXC
+
+0	0	0	0
+0	0	1	0
+0	1	
+
+IF Condition 
+
+If there is one condition to check Yes or NO 
+
+if (sales > 2000, "High", "low")
+
+sales = 900 = low 
+
+sales = 2500 = high
+
+sales = 2000 = low
+
+
+one quick question
+in  OR / AND multiple conditions  , what sequence the execution will be ?
+do we need to put brackets to differ the sequence ?
+
+
+If you are having Multiple conditions with only 2 results either True or False = Logical functions
+
+If you are having Only 1 condition with 1 output wither true or false = IF Condition
+
+If you are having Multiple Conditions with Multiple outputs = Switch
+
+SWITCH( True(), 
+
+Orders_Switch_Result = SWITCH(TRUE(), Orders[Sales] > 2000, "High", 
+
+Orders[Sales] > 1000, "Moderate", 
+
+Orders[Sales] > 500, "Medium", 
+
+"Low")
+
+
+if sales = 1500 = Moderate 
+
+if sales = 400 = Low
+
+SWITCH( True(), 
+
+Orders_Switch_Result = SWITCH(TRUE(), 
+
+Orders[Sales] > 2000, "High", 
+	400 > 2000 = False
+
+Orders[Sales] > 1000, "Moderate",
+	400 > 1000 = False
+
+Orders[Sales] > 500, "Medium", 
+	400 > 500 = False
+
+"Low")
+400 < 500 = True
+
+if (sales > 2000, "High", "low")
+
+
+iferror = 
+
+divide 
+
+2/ 0 = error = 0 
+
+2 * 0 = 
+
+without sale will there be a Profit = NO 
+
+Filter  Functions: Calculate, All, Allexcept, keepfilters
+
+
+Filter : Calculate 
+All 
+AllExcept
+KeepFilter 
+
+Calculate = 
+
+
+Can you give a total sales for only west region Market 
+
+Explict Measure 
+
+Region = West 
+
+
+Calcuate(sales, Region = West, Segment = Furniture) 
+
+
+AvgSales = 2.3 M 
+
+Region = West 
+Segment = Furniture 
+
+Static or Dynamic 
+
+Static 
+
+
+
+Out of 10 
+
+1 + 9 = 10 
+
+All 
+AllExcept
+KeepFilter 
+
+Report and a Dashboard 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
